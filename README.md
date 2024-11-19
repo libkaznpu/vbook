@@ -6,4 +6,5 @@ https://libkaznpu.github.io/vbook/Sobranie_svedeniy_o_narodah/index.html
 https://libkaznpu.github.io/vbook/Paris/index.html
 https://libkaznpu.github.io/vbook/Ocherki_psihologii/index.html
 https://libkaznpu.github.io/vbook/Napoleon/index.html
+https://libkaznpu.github.io/vbook/Napoleon/index.html/Religii_drevnego_mira/index.html
 # vbook
