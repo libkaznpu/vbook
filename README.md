@@ -9,4 +9,5 @@ https://libkaznpu.github.io/vbook/Napoleon/index.html
 https://libkaznpu.github.io/vbook/Religii_drevnego_mira/index.html
 https://libkaznpu.github.io/vbook/Hidaya_tom1/index.html
 https://libkaznpu.github.io/vbook/Algemeinen/index.html
+https://libkaznpu.github.io/vbook/Sarty/index.html
 # vbook
