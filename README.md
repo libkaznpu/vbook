@@ -8,4 +8,5 @@ https://libkaznpu.github.io/vbook/Ocherki_psihologii/index.html
 https://libkaznpu.github.io/vbook/Napoleon/index.html
 https://libkaznpu.github.io/vbook/Religii_drevnego_mira/index.html
 https://libkaznpu.github.io/vbook/Hidaya_tom1/index.html
+https://libkaznpu.github.io/vbook/Hidaya_tom1/index.html/Algemeinen/index.html
 # vbook
